@@ -1,0 +1,43 @@
+.container-nav{
+	display: flex;
+	display: inline;
+
+}
+
+.nav-link{
+	flex-direction: column;
+	float: right;
+	margin-left: 5px;
+
+}
+
+.navbar-brand{
+	margin-right: 65vw;
+}
+
+.navbar-home{
+	color: #fff;
+}
+
+.container-carousel{
+	margin-top: 0vh;
+}
+
+.carousel-main{
+	height: 500px;
+	width: 98%;
+	margin-top: 0px;
+}
+
+h2{
+	text-align: center;
+	margin-left: 40vw;
+}
+
+h3{
+	text-align: center;
+}
+
+.row-pizza{
+	height: 20rem;
+}
